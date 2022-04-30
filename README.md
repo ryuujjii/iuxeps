@@ -12,8 +12,9 @@
 
 <br>
 
-<details>
-  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
+<!--   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary> -->
+   &nbsp;**<b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>**
+  <br/>
   <br/>
     <a href="https://www.w3.org/html"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
     <a href="https://www.w3schools.com/css" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
@@ -25,12 +26,9 @@
   <a href="https://git-scm.com/" target="_blank"><img align="left" alt="VUE.js" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" /></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="VUE.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" /></a>
   <a href="https://www.jetbrains.com/webstorm/" target="_blank"><img align="left" alt="VUE.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/WebStorm_Icon.png/1024px-WebStorm_Icon.png" /></a>
-<!--     <a href="https://www.figma.com/" target="_blank"><img align="left" alt="VUE.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" /></a> -->
   
-</details>
-
 <br>
 <br>
 
-![Islom's github stats](https://github-readme-stats.vercel.app/api?username=iUxeps&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![iUxeps's github stats](https://github-readme-stats.vercel.app/api?username=iUxeps&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iUxeps&theme=algolia&layout=compact&langs_count=10&hide=Jupyter%20Notebook&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
