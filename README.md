@@ -12,7 +12,7 @@
 
 <br>
 
-<summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary> -->
+<-- <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary> -->
    &nbsp;**<b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>**
   <br/>
   <br/>
@@ -29,6 +29,5 @@
   
 <br>
 <br>
-<!-- 
 ![iUxeps's github stats](https://github-readme-stats.vercel.app/api?username=iUxeps&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iUxeps&theme=algolia&layout=compact&langs_count=10&hide=Jupyter%20Notebook&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
