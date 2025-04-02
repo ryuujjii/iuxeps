@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=21CD00&width=435&lines=Front-end+Developer)](https://git.io/typing-svg)
 
-![iUxeps's GitHub stats](https://github-readme-stats.vercel.app/api?username=iuxeps&show_icons=true&theme=dark)
+![iUxeps's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryuujjii&show_icons=true&theme=dark)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iuxeps&demo&theme=dark) -->
 
 ### <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
