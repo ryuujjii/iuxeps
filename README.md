@@ -18,10 +18,10 @@ Passionate about building interactive and immersive user experiences. 🚀
 <img src="https://custom-icon-badges.demolab.com/badge/Photo Sphere Viewer-039be5.svg?logo=photo-sphere-viewer&logoColor=&style=for-the-badge"/>  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white&style=for-the-badge"/>  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge"/>  <img src="https://img.shields.io/badge/UIkit-2396F3?logo=UIkit&logoColor=fff&style=for-the-badge"/>  <img src="https://custom-icon-badges.demolab.com/badge/Preline%20UI-black.svg?logo=preline-ui&logoColor=&style=for-the-badge"/>  
 
 ### 🔧 Additional Technologies  
-<img src="https://img.shields.io/badge/Gulp-000?logo=gulp&logoColor=CF4647&style=for-the-badge"/>  <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white&style=for-the-badge"/>  
+<img src="https://img.shields.io/badge/Gulp-000?logo=gulp&logoColor=CF4647&style=for-the-badge"/>  <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white&style=for-the-badge"/>   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white&style=for-the-badge"/>  <img src="https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=&style=for-the-badge"/>
 
 ### 🛠 Development Tools  
-<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white&style=for-the-badge"/>  <img src="https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff&style=for-the-badge"/>  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge"/>  
+<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white&style=for-the-badge"/>  <img src="https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff&style=for-the-badge"/>  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge"/>  
 
 ## 🌍 **Connect with Me**
   <a href="https://www.linkedin.com/in/islomkarimov/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge" /></a>
