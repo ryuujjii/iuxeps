@@ -1,7 +1,5 @@
 <!-- 🎨 БАННЕР -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=21CD00&center=true&vCenter=true&width=435&lines=Frontend+Developer;Web+Animation+Enthusiast;Crafting+Interactive+Experiences" alt="Typing SVG" />
-</p>
+
 
 # 👋 Hey, I'm Islom!  
 💻 **Frontend Developer** | 🎨 **Web Animation Enthusiast**  
